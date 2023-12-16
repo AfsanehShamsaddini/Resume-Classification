@@ -12,8 +12,8 @@ Resumes exemplify unstructured data, presenting various formats, text arrangemen
 #### ✔To achieve this goal, we employed different data analysis methods and utilized Machine Learning models and NLP techniques. This allowed us to classify resume categories and construct the Resume Classification Model.
 
 ## In this work, I compare different types of machine-learning algorithms.
-1. K-Nearest Neighbors
-2. Decision Tree
+1️⃣ K-Nearest Neighbors
+2️⃣ Decision Tree
 3. Random Forest
 4. Support Vector Machine
 5. Logistic Regression
