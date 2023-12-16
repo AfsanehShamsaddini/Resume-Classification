@@ -21,3 +21,6 @@ Resumes exemplify unstructured data, presenting various formats, text arrangemen
 7. Ada Boost Classifier
 8. Gradient Boosting
 9. Naive Bayes
+
+## Author
+* **Afsaneh Shamsaddini**
