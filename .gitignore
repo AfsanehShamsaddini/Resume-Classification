@@ -1,0 +1,12 @@
+﻿.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+.vscode/
+
+models/
+data/processed/
+
+# اگر رزومه‌ها واقعی هستند، بهتره فایل‌های خام رزومه رو پوش نکنید
+data/raw/Resumes/
+data/raw/Convert Resumes/
